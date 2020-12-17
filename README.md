@@ -1,5 +1,4 @@
 # Advanced-Linked-List-Implementations
-#This is the readme file for Course "Data Structures and Algorithms".
 #This project is created by "Tafheem Ul Islam Malik" and "Abdul Manan".
 
 Please read the following for the program to run successfully.
