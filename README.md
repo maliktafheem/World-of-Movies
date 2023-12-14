@@ -1,4 +1,4 @@
-# Advanced-Linked-List-Implementations
+# World of Movies
 #This project is created by "Tafheem Ul Islam Malik" and "Abdul Manan".
 
 Please read the following for the program to run successfully.
